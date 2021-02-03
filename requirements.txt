@@ -1,0 +1,2 @@
+moviepy
+imageio==2.9.0
